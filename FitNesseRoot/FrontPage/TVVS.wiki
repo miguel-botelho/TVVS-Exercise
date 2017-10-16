@@ -26,12 +26,12 @@ First Table
 
 Second Table
 
-|Calculator                        |
-|number1|number2|operation|operate?|
-|10     |2      |^        |100     |
-|3      |2      |^        |9       |
-|100    |4      |^        |400.0   |
-|2      |3      |^        |6.0     |
+|Calculator                              |
+|number1|number2|operation|operate?      |
+|10     |2      |^        |100.0         |
+|3      |2      |^        |9.0           |
+|100    |4      |^        |100000000.0   |
+|2      |3      |^        |8.0           |
 
 
 Third Table
